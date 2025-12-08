@@ -1,0 +1,15 @@
+# Cell 9: COPYRIGHT AND LICENSE
+
+copyright_text = """
+### 📝 COPYRIGHT AND LICENSE
+
+**Copyright (c) 2025 Ranajit Dhar. All Rights Reserved.**
+
+This software and its documentation are the property of Ranajit Dhar. 
+No part of this code, software, or documentation may be reproduced, 
+distributed, or transmitted in any form or by any means, including 
+photocopying, recording, or other electronic or mechanical methods, 
+without the prior written permission of the author.
+
+This project is NOT intended for commercial use or redistribution.
+"""
