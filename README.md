@@ -6,7 +6,7 @@
 ---
 
 ## 📺 Demo Video
-**[👉 CLICK HERE TO WATCH THE PROJECT DEMO VIDEO](TOMAR_YOUTUBE_LINK_EKHANE_DAO)** *(Please click the link above to see the Autonomous AI Agent controlling the Tuya IoT Device in action!)*
+**[👉 CLICK HERE TO WATCH THE PROJECT DEMO VIDEO](https://youtu.be/xQ3aYaKS1BQ)** *(Please click the link above to see the Autonomous AI Agent controlling the Tuya IoT Device in action!)*
 
 ---
 
@@ -24,7 +24,7 @@ Traditional IoT systems are passive. They wait for human commands (e.g., "Alexa,
 
 ## 🏗️ Design Principles & Architecture
 
-The system follows a **Multi-Agent Architecture** where specialized AI agents collaborate to perform a task, culminating in a physical action via the **Tuya Cloud Bridge**.
+The system follows a **Multi Agent Architecture** where specialized AI agents collaborate to perform a task, culminating in a physical action via the **Tuya Cloud Bridge**.
 
 ### **System Architecture Diagram**
 *(Upload your diagram image here by dragging & dropping it into the GitHub editor)*
@@ -53,23 +53,6 @@ Since this is a Cloud-Native AI Agent, it is designed to be hardware-agnostic. F
 * **IoT Platform:** Tuya Developer Platform (TuyaOpen API).
 * **SDK:** `tuya-connector-python`.
 * **Validation:** Pydantic (for Structured JSON Outputs).
-
----
-
-## 🚀 How to Run the Project
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/ranajitdharpersonal/-YES-Ai-Studio-Agentic-Multimodal-Creator-Capstone-Edition-](https://github.com/ranajitdharpersonal/-YES-Ai-Studio-Agentic-Multimodal-Creator-Capstone-Edition-)
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install tuya-connector-python google-genai pandas pydantic
-    ```
-3.  **Set Credentials:**
-    Add your `TUYA_ACCESS_ID`, `TUYA_ACCESS_SECRET`, and `GOOGLE_API_KEY` in the notebook secrets.
-4.  **Run the Notebook:**
-    Execute the cells in order. The Agent will plan, create, evaluate, and finally control the virtual device based on the score.
 
 ---
 
