@@ -27,8 +27,7 @@ Traditional IoT systems are passive. They wait for human commands (e.g., "Alexa,
 The system follows a **Multi Agent Architecture** where specialized AI agents collaborate to perform a task, culminating in a physical action via the **Tuya Cloud Bridge**.
 
 ### **System Architecture Diagram**
-<img alt="System Architecture Diagram of YES Ai Studio" src="https://github.com/user-attachments/assets/118fbbd4-d64a-483c-9dd4-65471621c04a" />
-
+![System Architecture Diagram](https://github.com/user-attachments/assets/118fbbd4-d64a-483c-9dd4-65471621c04a)
 
 **Workflow:**
 1.  **🧭 Navigator Agent:** Plans the project workflow & researches trends (using Google Gemini).
